@@ -13,9 +13,10 @@ This is a full-stack web application for real estate listings built using the ME
 - **OAuth Integration**: Users can sign in using OAuth authentication providers such as Google or Facebook.
 
 ## Screenshots
-![Screenshot 1](https://asset.cloudinary.com/dgjf9hzkd/d99c7caa000d02e5f56deb0df85fa3d5)
-![Screenshot 2](https://asset.cloudinary.com/dgjf9hzkd/527b1d5883c7db300e71df52d9cff395)
-![Screenshot 3](https://asset.cloudinary.com/dgjf9hzkd/d99c7caa000d02e5f56deb0df85fa3d5)
+links for live screenshots
+Screenshot 1-> https://asset.cloudinary.com/dgjf9hzkd/527b1d5883c7db300e71df52d9cff395
+Screenshot 2->https://asset.cloudinary.com/dgjf9hzkd/6d38e47c2b113bf1b9340313b43ac685
+![Screenshot 3 ->https://asset.cloudinary.com/dgjf9hzkd/d99c7caa000d02e5f56deb0df85fa3d5
 
 ## Technologies Used
 - **Frontend**: React.js, HTML, CSS, JavaScript
